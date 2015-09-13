@@ -1,0 +1,40 @@
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\bin\Debug\Project PAM.exe
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\bin\Debug\Project PAM.pdb
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project_PAM.Form1.resources
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project_PAM.Properties.Resources.resources
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project PAM.csproj.GenerateResource.Cache
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project PAM.exe
+c:\users\bart\documents\visual studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project PAM.pdb
+C:\Users\Bart\Documents\Visual Studio 2010\Projects\Project PAM\Project PAM\obj\x86\Debug\Project PAM.csprojResolveAssemblyReference.cache
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project PAM.exe
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project PAM.pdb
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\bin\Debug\Project PAM.exe
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\bin\Debug\Project PAM.pdb
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project PAM.csprojResolveAssemblyReference.cache
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project_PAM.Form1.resources
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project_PAM.Properties.Resources.resources
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM\Project PAM\obj\x86\Debug\Project PAM.csproj.GenerateResource.Cache
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.exe
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.pdb
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\bin\Debug\Project PAM.exe
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\bin\Debug\Project PAM.pdb
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.csprojResolveAssemblyReference.cache
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.Form1.resources
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.Properties.Resources.resources
+H:\Moje dokumenty\Studia\VI semestr\WRZESIEN D\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.csproj.GenerateResource.Cache
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.exe
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.pdb
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Project PAM.exe
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Project PAM.pdb
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.Form1.resources
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.Properties.Resources.resources
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project PAM.csproj.GenerateResource.Cache
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Emgu.CV.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\Emgu.Util.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\bin\Debug\ZedGraph.dll
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.Alert.resources
+C:\Users\Krystian\Downloads\bartek2\Project PAM Layout\Project PAM\obj\x86\Debug\Project_PAM.App.resources
