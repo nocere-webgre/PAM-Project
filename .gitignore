@@ -1,4 +1,4 @@
-Project_PAM/bin
+Project_PAM/bin/Debug
 # But not these files...
 !.Project_PAM/obj/x86/Debug/Project PAM.exe
 Project_PAM/obj
